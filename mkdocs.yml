@@ -1,0 +1,97 @@
+site_name: Rama Raju - DevOps Docs
+site_url: https://sitename.example
+
+theme:
+  name: material
+
+  icon:
+    logo: material/cloud
+  
+  features:
+    - navigation.footer
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - content.code.copy  # Enables the copy button for code blocks
+    
+
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+
+
+plugins:
+  - search
+  - include-markdown
+  # - redirects:
+  #     redirect_maps:
+  #       index.md: "https://ram2305.github.io/Ram/"
+
+  
+
+
+
+
+
+# Enable Markdown extensions for syntax highlighting
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true  # Clickable line numbers
+      line_spans: __span  # Allows styling of specific lines
+      pygments_lang_class: true  # Adds a language-specific class for styling
+  - pymdownx.inlinehilite  # Enables inline code highlighting
+  - pymdownx.snippets  # Allows content reuse via snippet includes
+  - pymdownx.superfences  # Supports nested fences for better Markdown parsing
+  - pymdownx.tabbed:
+      alternate_style: true  # Enables alternate tab styling for better UX
+  - admonition  # Enables note, warning, and other callouts
+  - pymdownx.details  # Enables collapsible content sections
+  - pymdownx.tabbed
+  
+
+
+
+# Pygments Syntax Highlighting for Specific Languages
+extra:
+  highlightjs: true
+  hljs_languages:
+    - go
+    - shell
+    - python
+    - yaml
+
+  social:
+    - icon: fontawesome/solid/user 
+      link: https://ram2305.github.io/Ram/
+      name: Portfolio
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ram-cloud-devops/
+      name: Linkedin
+    - icon: fontawesome/brands/github
+      link: https://github.com/RamaRaju-vj
+      name: Github
+  
+
+
+copyright: copyright &copy; 2025 Rama Raju
+
+
+
+
+
+
+  
