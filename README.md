@@ -1,4 +1,4 @@
 # Rama_Raju_Devops_docs
 
-!!! note
-    This is a work in progress documenation
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
