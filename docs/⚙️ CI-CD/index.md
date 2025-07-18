@@ -62,9 +62,6 @@ def main(){}
     hi
 
 
-!!! failure
-    hi
-
 
 !!! danger
     hi
