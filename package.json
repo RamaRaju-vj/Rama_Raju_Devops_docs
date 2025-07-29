@@ -1,0 +1,29 @@
+{
+  "name": "rama_raju_devops_docs",
+  "version": "1.0.0",
+  "description": "> [!NOTE]   > This document website is currently work in progress.",
+  "main": "release.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamaRaju-vj/Rama_Raju_Devops_docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamaRaju-vj/Rama_Raju_Devops_docs/issues"
+  },
+  "homepage": "https://github.com/RamaRaju-vj/Rama_Raju_Devops_docs#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.3",
+    "semantic-release": "^24.2.7"
+  }
+}

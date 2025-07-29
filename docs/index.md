@@ -1,3 +1,15 @@
+!!! tip
+    ### 🔍 Recommended Chrome Extensions for Summarizing
+
+    Please use the following Chrome extensions if you want a summarized version of each topic:
+
+    - [**Condense – Summarize & Chat**](https://chromewebstore.google.com/detail/condense/gjcdgopchfljklehdggfpmkfbnhmmink?hl=en)  (Not sponsored)
+    - [**Storytell – AI Summarizer**](https://chromewebstore.google.com/detail/storytell-summarize-chat/khggnjoomjjihbjjkpbhmpelgcdodjpj?hl=en&authuser=0) (Not sponsored)
+
+    **Note:** First navigate to the topic you need, and then use the extension for the summary.
+
+
+
 
 ## 📌 Folder Descriptions
 ```shell
@@ -28,4 +40,4 @@
 ```
 
 
-## 🚀 [Portfolio](https://ram2305.github.io/Ram/)
+
