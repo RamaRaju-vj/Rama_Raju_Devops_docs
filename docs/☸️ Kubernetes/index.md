@@ -1,76 +1,15 @@
 <h1 style="display: flex; align-items: center; gap: 10px;">
-  
-  <img src="../assets/Kubernetes.gif" alt="Kubernetes" width="300">
+  <img src="../assets/K8s.gif" alt="Kubernetes" width="300">
 </h1>
 
-[use unseen to remove the gif background](https://www.unscreen.com/upload)
+### K8s Index
+***Use the links 👇 to navigate through topics if needed.***
 
-## Commands
+### 📘 Core Concepts
 
-`python3 -m venv venv` 
-`source venv/bin/activate`
-- start venv
-
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-
-
-```sh title="create_folder.sh" linenums="1"
-mkdir k8s-manifests 
-```
-
-``` py title="main.py"  linenums="1"
-def main(){}
-```
-
-!!! note
-    hi
-
-!!! abstract
-    hi
-
-!!! info
-    hi
-
-!!! tip
-    hi
-
-!!! success
-    hi
-
-!!! question
-    hi
-
-!!! warning
-    hi
-
-!!! failure
-    hi
-
-
-!!! failure
-    hi
-
-
-!!! danger
-    hi
-
-!!! bug
-    hi
-
-!!! example 
-    hi
-
-!!! quote
-    hi
+- [1.1 Kubernetes Architecture](1.Core-Concepts/1.1%20k8s-architecture.md)
+- [1.2 Kubernetes Components](1.Core-Concepts/1.2%20k8s-components.md)
+- [1.3 Kubernetes Services](1.Core-Concepts/1.3%20K8s-services.md)
+- [1.4 Kubernetes Namespaces](1.Core-Concepts/1.4%20K8s-NameSpaces.md)
+- [1.5 Imperative and Declarative Approaches](1.Core-Concepts/1.5%20imperative%20and%20declarative%20approaches.md)
+- [1.6 Practice Resources](1.Core-Concepts/1.6%20practice-resources.md)
