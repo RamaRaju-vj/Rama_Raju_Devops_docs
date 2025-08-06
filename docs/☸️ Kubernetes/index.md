@@ -1,5 +1,5 @@
 <h1 style="display: flex; align-items: center; gap: 10px;">
-  <img src="../assets/K8s.gif" alt="Kubernetes" width="300">
+  <img src="../assets/k8s.gif" alt="Kubernetes" width="300">
 </h1>
 
 ### K8s Index
