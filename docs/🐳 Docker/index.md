@@ -3,7 +3,6 @@
   <img src="../assets/docker.gif" alt="Docker" width="200">
 </h1>
 
-[use unseen to remove the gif background](https://www.unscreen.com/upload)
 
 ## Commands
 
