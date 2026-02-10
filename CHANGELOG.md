@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/RamaRaju-vj/Rama_Raju_Devops_docs/compare/v1.0.0...v1.0.1) (2026-02-10)
+
+
+### Bug Fixes
+
+* ci actions ([d91a3db](https://github.com/RamaRaju-vj/Rama_Raju_Devops_docs/commit/d91a3db05e1b1cee82a20f29d9ebfff7d98ea8d2))
+
 # 1.0.0 (2025-07-29)
 
 
