@@ -1,7 +1,12 @@
 site_name: Rama Raju - DevOps Docs
 site_url: https://sitename.example
 
+# repo_url: https://github.com/RamaRaju-vj/Rama_Raju_Devops_docs
+# repo_name: RamaRaju-vj/Rama_Raju_Devops_docs
+# # edit_uri: edit/main/docs/   # optional
+
 theme:
+
   name: material
 
   icon:
@@ -31,6 +36,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+  
+
 
 
 
@@ -76,10 +83,10 @@ extra:
 
   social:
     - icon: fontawesome/solid/user 
-      link: https://ram2305.github.io/Ram/
+      link: https://portfolio.ramaraju-vj.engineer/
       name: Portfolio
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/ram-cloud-devops/
+      link: https://www.linkedin.com/in/rama-raju-vj/
       name: Linkedin
     - icon: fontawesome/brands/github
       link: https://github.com/RamaRaju-vj
